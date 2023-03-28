@@ -1,4 +1,4 @@
-<p>CAP 4
+<p>_CAP 4_
 El capítulo 4 del libro "Sociología" de John J. Macionis y Ken Plummer se titula "Sociedad" y se centra en el análisis de las características y el funcionamiento de la sociedad como entidad social compleja.
 
 El capítulo comienza con una discusión sobre cómo la sociedad ha experimentado importantes cambios en los últimos siglos, especialmente con la revolución industrial y la creciente complejidad de la vida social. Para entender estos cambios, los autores exploran las teorías de los tres sociólogos clásicos: Marx, Weber y Durkheim.
@@ -13,7 +13,7 @@ Después de examinar estas teorías, los autores exploran la estructura contempo
 
 En general, el capítulo 4 busca proporcionar una comprensión general de las características y el funcionamiento de la sociedad, tanto en términos históricos como contemporáneos. Los autores argumentan que para comprender la sociedad y su evolución, es necesario tener en cuenta tanto las teorías sociológicas clásicas como las dinámicas sociales contemporáneas.
   </p>
-<p1> CAP 5
+<p1>_CAP 5_
 El capítulo 5 del libro "Sociología" de John J. Macionis y Ken Plummer aborda el tema de la cultura y su papel en la sociedad. Los autores comienzan definiendo la cultura como el conjunto de valores, normas, creencias, costumbres y otros elementos que se comparten y transmiten en una sociedad.
 
 Luego, los autores destacan la importancia de la cultura en la vida humana, ya que nos permite adaptarnos y sobrevivir en diferentes contextos sociales. También señalan que la cultura es dinámica y cambia con el tiempo y que la globalización ha aumentado la interacción entre diferentes culturas, lo que ha generado una mayor diversidad cultural.
@@ -26,9 +26,7 @@ En la sección "Culturas musulmanas", los autores abordan el tema de cómo la cu
 
 Finalmente, los autores concluyen el capítulo destacando la importancia de comprender y estudiar la cultura para entender la sociedad en su conjunto. También señalan que la cultura puede ser un obstáculo para la libertad humana si se utiliza para justificar la discriminación y la opresión, por lo que es importante tener una perspectiva crítica y reflexiva sobre la cultura.
 </p1>
-CAP-20
-/
-/
+<p2>_CAP 20_
 El capítulo 20 del libro "Sociología" se enfoca en la educación y cómo ésta se relaciona con la sociedad. Comienza discutiendo la educación global y la alfabetización, y cómo el acceso a la educación varía en diferentes partes del mundo.
 
 Luego, el capítulo analiza la educación en el mundo moderno, incluyendo la naturaleza de la educación formal y las distintas formas de educación. Se discute cómo la educación está vinculada con la economía y el empleo, y cómo las desigualdades sociales y económicas afectan la educación.
