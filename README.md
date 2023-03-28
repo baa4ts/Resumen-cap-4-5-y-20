@@ -26,6 +26,9 @@ En la sección "Culturas musulmanas", los autores abordan el tema de cómo la cu
 
 Finalmente, los autores concluyen el capítulo destacando la importancia de comprender y estudiar la cultura para entender la sociedad en su conjunto. También señalan que la cultura puede ser un obstáculo para la libertad humana si se utiliza para justificar la discriminación y la opresión, por lo que es importante tener una perspectiva crítica y reflexiva sobre la cultura.
 </p1>
+
+<space>
+  </space>
 <p2>_CAP 20_
 El capítulo 20 del libro "Sociología" se enfoca en la educación y cómo ésta se relaciona con la sociedad. Comienza discutiendo la educación global y la alfabetización, y cómo el acceso a la educación varía en diferentes partes del mundo.
 
