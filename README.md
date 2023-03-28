@@ -1,4 +1,5 @@
-CAP 4 ----------------------------------------------------------------------------------------------------------------------------------------
+CAP 4 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
 El capítulo 4 del libro "Sociología" de John J. Macionis y Ken Plummer se titula "Sociedad" y se centra en el análisis de las características y el funcionamiento de la sociedad como entidad social compleja.
 
 El capítulo comienza con una discusión sobre cómo la sociedad ha experimentado importantes cambios en los últimos siglos, especialmente con la revolución industrial y la creciente complejidad de la vida social. Para entender estos cambios, los autores exploran las teorías de los tres sociólogos clásicos: Marx, Weber y Durkheim.
